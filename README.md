@@ -20,7 +20,7 @@
 ### 🧠 Tech Stack
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=,cpp,php,javascript,typescript,flutter,html,css,react,nextjs,nodejs,express,redux,tailwind,fastapi,mongodb,mysql,prisma,aws,azure,docker,figma,git,github,postman&theme=dark&perline=8)
+![My Skills](https://skillicons.dev/icons?i=cpp,javascript,typescript,flutter,html,css,react,nextjs,nodejs,express,redux,tailwind,php,mysql,mongodb,mysql,prisma,aws,azure,docker,figma,git,github,postman&theme=dark&perline=8)
 
 </div>
 
